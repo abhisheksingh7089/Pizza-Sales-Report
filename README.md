@@ -1,6 +1,6 @@
 # Pizza-Sales-Report
 Power BI Dashboard
-Project Objective: Create a pizza sales report to find out the daily or monhtly sales which includes best to worst products, which help stakeholders to monitor product effectively.
+Project Objective: Create a pizza sales report to find out the daily or monthly sales which includes best to worst products, which help stakeholders to monitor product effectively.
 Steps: 1) Extract the data and Transform it. (Check Null values, Data Type Correction) Load the data to power bi.
        2) Create a measures table to put all measures in single table.
        3) Create DAX queries to generate following:
